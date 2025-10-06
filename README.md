@@ -18,13 +18,13 @@
 - 💰 **Full-Stack Expense Tracker** – improved efficiency by **40%**
 - 🛒 **Online Shopping Website** – handled **200+ orders** with **20% faster response**
 - 🌿 **Biodiversity Conservation Website** – boosted engagement by **40%**
-- 🤖 **AI-Based Crop Disease Detection System** – early detection and treatment suggestions using image recognition
+- 🚗 **Car Rental Service Website** – streamlined booking process and improved UX
 
 🛠️ My technical toolkit includes:  
-**C, C++, Java, Python, JavaScript, PHP, SQL, HTML, CSS, React.js, Node.js, Express.js, MongoDB, MySQL, Git & GitHub.**
+**C, C++, Java, Python, JavaScript, PHP, SQL, HTML, CSS, React.js, Node.js, Express.js, MongoDB, MySQL, Git & GitHub**
 
 ⚙️ With strong foundations in **DSA** and **OOP**, I love crafting **user-centric, high-performance, and visually engaging web apps**.  
-🌱 Currently exploring **AI**, **Cloud Technologies**, and **Advanced Web Development** to contribute to impactful open-source and real-world projects.
+🌱 Currently exploring **Cloud Technologies** and **Advanced Web Development** to contribute to impactful open-source and real-world projects.
 
 ---
 
@@ -47,12 +47,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
+
 ### 📌 Pinned Projects
 
 [![Online Shopping Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=online-shopping&theme=radical)](https://github.com/Vikashkumar071234/online-shopping)  
 [![Car Rental Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical)](https://github.com/Vikashkumar071234/car-rental-service-)  
 [![Biodiversity Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=vk_biodiversity&theme=radical)](https://github.com/Vikashkumar071234/vk_biodiversity)
-
 
 ---
 
