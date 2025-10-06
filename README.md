@@ -1,7 +1,13 @@
+<div align="center">
+
 # 👋 Hi, I'm Vikash Kumar!
 
 💻 Full Stack Developer | 🌱 Learning C++ and DSA  
 🚀 Passionate about building scalable and efficient software solutions
+
+📫 Reach me: [vikashkumar071234@gmail.com](mailto:vikashkumar071234@gmail.com)
+
+</div>
 
 ---
 
@@ -14,13 +20,11 @@
 - 🌿 **Biodiversity Conservation Website** – boosted engagement by **40%**
 - 🤖 **AI-Based Crop Disease Detection System** – early detection and treatment suggestions using image recognition
 
-🛠️ My technical toolkit includes:
+🛠️ My technical toolkit includes:  
 **C, C++, Java, Python, JavaScript, PHP, SQL, HTML, CSS, React.js, Node.js, Express.js, MongoDB, MySQL, Git & GitHub.**
 
 ⚙️ With strong foundations in **DSA** and **OOP**, I love crafting **user-centric, high-performance, and visually engaging web apps**.  
 🌱 Currently exploring **AI**, **Cloud Technologies**, and **Advanced Web Development** to contribute to impactful open-source and real-world projects.
-
-📫 Reach me: [vikashkumar071234@gmail.com](mailto:vikashkumar071234@gmail.com)
 
 ---
 
@@ -41,6 +45,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+### 📌 Pinned Projects
+
+[![Online Shopping Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=Online-Shopping-Website&theme=radical)](https://github.com/Vikashkumar071234/Online-Shopping-Website)  
+[![Car Rental Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=Car-Rental-Website&theme=radical)](https://github.com/Vikashkumar071234/Car-Rental-Website)  
+[![Biodiversity Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=Biodiversity-Conservation-Site&theme=radical)](https://github.com/Vikashkumar071234/Biodiversity-Conservation-Site)
+
 
 ---
 
@@ -65,4 +77,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashkumar071234@gmail.com)
 
 ---
+
+![Visitor Count](https://profile-counter.glitch.me/Vikashkumar071234/count.svg)
+
 ⭐ *"Code. Learn. Build. Repeat."*
