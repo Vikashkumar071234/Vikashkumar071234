@@ -5,7 +5,7 @@
 💻 Full Stack Developer | 🌱 Learning C++ and DSA  
 🚀 Passionate about building scalable and efficient software solutions
 
-📫 Reach me: [vikashkumar071234@gmail.com](mailto:vikashkumar071234@gmail.com)
+📫 Reach me: [vikashkumar071234@gmail.com](mailto:vsk17369@gmail.com)
 
 </div>
 
@@ -49,9 +49,9 @@
 ---
 ### 📌 Pinned Projects
 
-[![Online Shopping Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=Online-Shopping-Website&theme=radical)](https://github.com/Vikashkumar071234/Online-Shopping-Website)  
-[![Car Rental Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=Car-Rental-Website&theme=radical)](https://github.com/Vikashkumar071234/Car-Rental-Website)  
-[![Biodiversity Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=Biodiversity-Conservation-Site&theme=radical)](https://github.com/Vikashkumar071234/Biodiversity-Conservation-Site)
+[![Online Shopping Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=online-shopping&theme=radical)](https://github.com/Vikashkumar071234/online-shopping)  
+[![Car Rental Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical)](https://github.com/Vikashkumar071234/car-rental-service-)  
+[![Biodiversity Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=vk_biodiversity&theme=radical)](https://github.com/Vikashkumar071234/vk_biodiversity)
 
 
 ---
