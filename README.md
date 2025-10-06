@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Vikash Kumar!
 
-💻 Full Stack Developer | 🌱 Learning C++ and DSA  
+💻 Full Stack Developer | 🌱 Learning C++ & DSA  
 🚀 Passionate about building scalable and efficient software solutions
 
-📫 Reach me: [vikashkumar071234@gmail.com](mailto:vsk17369@gmail.com)
+📫 Reach me: [vsk17369@gmail.com](mailto:vsk17369@gmail.com)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Vikashkumar071234)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashkumar071234@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsk17369@gmail.com)
 
 ---
 
