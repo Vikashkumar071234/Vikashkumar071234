@@ -65,15 +65,16 @@ Here’s a snapshot of my GitHub activity, top languages, and contribution strea
 </div>
 
 ---
-
-## 💬 Let's Collaborate
-<div align="center">
-🤝 Open to contributing to **open-source** & **team-based web projects**  
-🌍 Interested in **MERN, Django, Laravel & Cloud**  
-<br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsk17369@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashku08)
-</div>
+<p align="center" dir="auto">
+🤝 Open to contributing to <strong>open-source</strong> & <strong>team-based web projects</strong> 🌍 Interested in <strong>MERN, Django, Laravel & Cloud</strong>
+<br><br>
+<a href="mailto:vsk17369@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" hspace="15" style="max-width: 100%; height: auto; max-height: 40px;">
+</a>
+<a href="https://www.linkedin.com/in/vikashku08" rel="nofollow">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" hspace="15" style="max-width: 100%; height: auto; max-height: 40px;">
+</a>
+</p>
 
 
 ---
