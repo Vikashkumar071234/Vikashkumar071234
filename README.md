@@ -71,7 +71,7 @@ Here’s a snapshot of my GitHub activity, top languages, and contribution strea
 🤝 Open to contributing to **open-source** & **team-based web projects**  
 🌍 Interested in **MERN, Django, Laravel & Cloud**  
 <br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsk17369@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsk17369@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashku08)
 </div>
 
