@@ -50,7 +50,7 @@
 
 ### 📌 Pinned Projects
 
-[![Online Shopping Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=online-shopping&theme=radical)](https://github.com/Vikashkumar071234/online-shopping)  
+[![Full-Stack Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical)](https://github.com/Vikashkumar071234/expense-tracker)  
 [![Car Rental Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical)](https://github.com/Vikashkumar071234/car-rental-service-)  
 [![Biodiversity Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=vk_biodiversity&theme=radical)](https://github.com/Vikashkumar071234/vk_biodiversity)
 
