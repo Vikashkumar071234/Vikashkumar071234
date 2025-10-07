@@ -1,17 +1,14 @@
 <!-- Animated Typing Header -->
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Vikash+Kumar!;💻+Full+Stack+Developer;🌱+Learning+C%2B%2B+%26+DSA;🚀+Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Vikash+Kumar!;💻+Full+Stack+Developer;🌱+Learning+C%2B%2B+%26+DSA;🚀+Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
 </div>
 
 ---
 
 <div align="center">
-
 💻 **Full Stack Developer** | 🌱 **Learning C++ & DSA**  
-🚀 Passionate about building scalable, efficient, and user-focused web solutions
-
+🚀 Passionate about building scalable, efficient, and user-focused web solutions  
 📫 Reach me: [vsk17369@gmail.com](mailto:vsk17369@gmail.com)
-
 </div>
 
 ---
@@ -33,12 +30,12 @@ I enjoy designing and developing **scalable, high-performance web applications**
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 ---
 
@@ -69,41 +66,37 @@ I enjoy designing and developing **scalable, high-performance web applications**
 ---
 
 ## 📂 Featured Projects
-
 <div align="center">
-  <a href="https://github.com/Vikashkumar071234/expense-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical" />
-  </a>
-  <a href="https://github.com/Vikashkumar071234/car-rental-service-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical" />
-  </a>
-  <a href="https://github.com/Vikashkumar071234/vk_biodiversity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=vk_biodiversity&theme=radical" />
-  </a>
+<a href="https://github.com/Vikashkumar071234/expense-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical" />
+</a>
+<a href="https://github.com/Vikashkumar071234/car-rental-service-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical" />
+</a>
+<a href="https://github.com/Vikashkumar071234/vk_biodiversity">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=vk_biodiversity&theme=radical" />
+</a>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  ![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashkumar071234&layout=compact&theme=radical)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikashkumar071234&theme=radical)
+![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashkumar071234&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikashkumar071234&theme=radical)
 </div>
 
 ---
 
 ## 🐍 Contribution Graph
-
 <div align="center">
-  <img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;" />
+<img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
 </div>
 
 ---
 
 ## 💬 Let's Collaborate
-
 <div align="center">
 🤝 Open to contributing to **open-source** and **team-based web projects**  
 🌍 Interested in **MERN Stack**, **Django**, **Laravel**, and **Cloud** collaborations  
@@ -113,9 +106,9 @@ I enjoy designing and developing **scalable, high-performance web applications**
 ---
 
 <div align="center">
-![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐%20Code.%20Learn.%20Build.%20Repeat.%20⭐&fontSize=22&fontColor=ffffff)
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐ Code. Learn. Build. Repeat. ⭐&fontSize=22&fontColor=ffffff)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge)  
 
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg">
 </div>
