@@ -7,18 +7,23 @@
 
 <div align="center">
 💻 **Full Stack Developer** | 🌱 **Learning C++ & DSA**  
+🚀 Passionate about building scalable, efficient, and user-focused web solutions  
 📫 Reach me: [vsk17369@gmail.com](mailto:vsk17369@gmail.com)
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-🎓 CSE student at **Lovely Professional University**, passionate about **Full Stack Development** and **Problem Solving**.  
+🎓 I’m a **Computer Science and Engineering student at Lovely Professional University**, passionate about **Full Stack Development** and **Problem Solving**.  
+I enjoy designing and developing **scalable, high-performance web applications** with clean architecture and great user experience.  
 
 💡 Key Projects:  
-- 💰 **Expense Tracker** – +40% efficiency  
-- 🚗 **Car Rental System** – optimized UX  
-- 🌿 **Biodiversity Website** – +40% engagement  
+- 💰 **Full-Stack Expense Tracker** – enhanced efficiency by **40%** through real-time expense analytics  
+- 🚗 **Car Rental Service System** – optimized booking process and improved UX  
+- 🌿 **Biodiversity Conservation Website** – boosted user engagement by **40%**  
+
+⚙️ With a strong foundation in **DSA**, **OOP**, and **System Design**, I focus on writing code that is both **efficient** and **maintainable**.  
+🌱 Currently exploring **Cloud Technologies** and **Advanced MERN Development**.
 
 ---
 
@@ -47,7 +52,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -55,15 +60,15 @@
 ---
 
 ## 📂 Featured Projects
-[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical)](https://github.com/Vikashkumar071234/expense-tracker)  
-[![Car Rental](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical)](https://github.com/Vikashkumar071234/car-rental-service-)  
-[![Biodiversity](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=vk_biodiversity&theme=radical)](https://github.com/Vikashkumar071234/vk_biodiversity)
+[![Full-Stack Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical)](https://github.com/Vikashkumar071234/expense-tracker)  
+[![Car Rental Service](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical)](https://github.com/Vikashkumar071234/car-rental-service-)  
+[![Biodiversity Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=vk_biodiversity&theme=radical)](https://github.com/Vikashkumar071234/vk_biodiversity)
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical)  
+![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashkumar071234&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikashkumar071234&theme=radical)
 </div>
@@ -79,8 +84,8 @@
 
 ## 💬 Let's Collaborate
 <div align="center">
-🤝 Open to **open-source** & **team-based projects**  
-🌍 Interested in **MERN, Django, Laravel & Cloud**  
+🤝 Open to contributing to **open-source** and **team-based projects**  
+🌍 Interested in **MERN Stack**, **Django**, **Laravel**, and **Cloud**  
 📫 Connect via [Gmail](mailto:vsk17369@gmail.com) or [GitHub](https://github.com/Vikashkumar071234)
 </div>
 
@@ -89,7 +94,7 @@
 <div align="center">
 ![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐%20Code.%20Learn.%20Build.%20Repeat.%20⭐&fontSize=22&fontColor=ffffff)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge)  
 
 <img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg">
 </div>
