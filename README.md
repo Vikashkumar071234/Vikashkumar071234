@@ -1,29 +1,25 @@
 <!-- Animated Typing Header -->
 <div align="center">
-  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Vikash+Kumar!;💻+Full+Stack+Developer;🌱+Learning+C%2B%2B+%26+DSA;🚀+Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
-  
 </div>
 
 ---
 
 <div align="center">
-
 💻 **Full Stack Developer** | 🌱 **Learning C++ & DSA**  
-🚀 Passionate about building scalable, efficient, and user-focused web solutions
-
+🚀 Building scalable, efficient, and user-focused web solutions  
 📫 Reach me: [vsk17369@gmail.com](mailto:vsk17369@gmail.com)
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-🎓 **CSE student at Lovely Professional University**, passionate about **Full Stack Development and Problem Solving**. 
-I enjoy designing and developing **scalable, high-performance web applications** with clean architecture and great user experience.
+🎓 **CSE student at Lovely Professional University**, passionate about **Full Stack Development** and **Problem Solving**.  
+I design and develop **high-performance web applications** with clean architecture and great user experience.  
 
-⚙️ Strong foundation in **DSA, OOP, and System Design**.
-🌱 Exploring **Cloud Technologies and Advanced MERN Development**.
+⚙️ Strong foundation in **DSA, OOP, and System Design**.  
+🌱 Exploring **Cloud Technologies** and **Advanced MERN Development**.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -36,8 +32,6 @@ I enjoy designing and developing **scalable, high-performance web applications**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
-
 ### 🧩 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -48,14 +42,10 @@ I enjoy designing and developing **scalable, high-performance web applications**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -66,7 +56,7 @@ I enjoy designing and developing **scalable, high-performance web applications**
 
 ## 📂 Featured Projects
 
-[![Full-Stack Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical)](https://github.com/Vikashkumar071234/expense-tracker)  
+[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical)](https://github.com/Vikashkumar071234/expense-tracker)  
 [![Car Rental Service](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical)](https://github.com/Vikashkumar071234/car-rental-service-)  
 [![Biodiversity Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=vk_biodiversity&theme=radical)](https://github.com/Vikashkumar071234/vk_biodiversity)
 
@@ -75,40 +65,33 @@ I enjoy designing and developing **scalable, high-performance web applications**
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashkumar071234&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikashkumar071234&theme=radical)
-
 </div>
 
 ---
 
+## 🐍 Contribution Graph
 <div align="center">
-  <img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
-</div>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" style="max-width: 100%;">
+<img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
 </div>
 
 ---
 
 ## 💬 Let's Collaborate
-
-🤝 Open to contributing to **open-source** and **team-based web projects**  
-🌍 Interested in **MERN Stack**, **Django**, **Laravel**, and **Cloud** collaborations  
+<div align="center">
+🤝 Open to **open-source & team projects**  
+🌍 Interested in **MERN, Django, Laravel & Cloud**  
 📫 Connect via [Gmail](mailto:vsk17369@gmail.com) or [GitHub](https://github.com/Vikashkumar071234)
+</div>
 
 ---
 
 <div align="center">
-
-![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐%20Code.%20Learn.%20Build.%20Repeat.%20⭐&fontSize=22&fontColor=ffffff)
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐%20Code.%20Learn.%20Build.%20Repeat.%20⭐&fontSize=22&fontColor=ffffff)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge)
 
 <img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" style="max-width: 100%; height: auto; max-height: 30px;">
-
 </div>
