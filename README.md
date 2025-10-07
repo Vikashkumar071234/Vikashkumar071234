@@ -106,9 +106,9 @@ I enjoy designing and developing **scalable, high-performance web applications**
 ---
 
 <div align="center">
-![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐ Code. Learn. Build. Repeat. ⭐&fontSize=22&fontColor=ffffff)  
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐ Code. Learn. Build. Repeat. ⭐&fontSize=22&fontColor=ffffff)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge)  
+![Profile Views](https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge)
 
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg">
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" style="max-width: 100%; height: auto; max-height: 30px;">
 </div>
