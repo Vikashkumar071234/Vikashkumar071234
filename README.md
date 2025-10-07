@@ -90,6 +90,20 @@ I enjoy designing and developing **scalable, high-performance web applications**
 
 ---
 
+## 🐍 Contribution Graph Animation
+
+<div align="center">
+  <img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" style="max-width: 100%;">
+</div>
+
+---
+
 ## 💬 Let's Collaborate
 
 🤝 Open to contributing to **open-source** and **team-based web projects**  
@@ -98,11 +112,12 @@ I enjoy designing and developing **scalable, high-performance web applications**
 
 ---
 
-<!-- Animated Wave Footer -->
 <div align="center">
 
 ![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐%20Code.%20Learn.%20Build.%20Repeat.%20⭐&fontSize=22&fontColor=ffffff)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge)
+
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" style="max-width: 100%; height: auto; max-height: 30px;">
 
 </div>
