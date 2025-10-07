@@ -90,13 +90,10 @@ I enjoy designing and developing **scalable, high-performance web applications**
 
 ---
 
-## 🐍 Contribution Graph Animation
-
 <div align="center">
   <img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
 </div>
 
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" style="max-width: 100%;">
