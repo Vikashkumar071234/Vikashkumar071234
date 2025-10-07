@@ -13,7 +13,8 @@
 ---
 
 ## 👨‍💻 About Me
-🎓 CSE student at Lovely Professional University passionate about **Full Stack Development** and **Problem Solving**.  
+🎓 CSE student at **Lovely Professional University**, passionate about **Full Stack Development** and **Problem Solving**.  
+
 💡 Key Projects:  
 - 💰 **Expense Tracker** – +40% efficiency  
 - 🚗 **Car Rental System** – optimized UX  
