@@ -15,10 +15,10 @@
 
 ## 👨‍💻 About Me
 🎓 **CSE student at Lovely Professional University**, passionate about **Full Stack Development and Problem Solving**.  
-I enjoy designing and developing **scalable, high-performance web applications** with clean architecture and great user experience.
+I enjoy designing and developing **scalable, high-performance web applications** with clean architecture and great user experience.  
 
-⚙️ Strong foundation in **DSA, OOP, and System Design**.  
-🌱 Exploring **Cloud Technologies and Advanced MERN Development**.
+⚙️ Strong foundation in **DSA, OOP, and System Design**  
+🌱 Exploring **Cloud Technologies and Advanced MERN Development**
 
 ---
 
@@ -65,20 +65,20 @@ I enjoy designing and developing **scalable, high-performance web applications**
 ## 📊 GitHub Stats
 
 <div align="center">
-![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashkumar071234&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikashkumar071234&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical" alt="GitHub Stats">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashkumar071234&layout=compact&theme=radical" alt="Top Languages">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikashkumar071234&theme=radical" alt="GitHub Streak">
 </div>
 
 ---
 
 ## 🐍 Contribution Graph
 <div align="center">
-<img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
+<img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" alt="Contribution Graph" style="max-width: 100%;">
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" style="max-width: 100%;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing Line" style="max-width: 100%;">
 </div>
 
 ---
@@ -93,9 +93,9 @@ I enjoy designing and developing **scalable, high-performance web applications**
 ---
 
 <div align="center">
-![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐%20Code.%20Learn.%20Build.%20Repeat.%20⭐&fontSize=22&fontColor=ffffff)  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐%20Code.%20Learn.%20Build.%20Repeat.%20⭐&fontSize=22&fontColor=ffffff" alt="Wave Animation">  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Views">
 
 <img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" style="max-width: 100%; height: auto; max-height: 30px;">
 </div>
