@@ -65,9 +65,8 @@ Here’s a snapshot of my GitHub activity, top languages, and contribution strea
 </div>
 
 ---
-
-<p align="center">
 🔗 <strong>Connect with me</strong>
+<p align="center">
 <br><br>
 <a href="mailto:vsk17369@gmail.com" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" style="margin-right: 30px; vertical-align: middle;">
