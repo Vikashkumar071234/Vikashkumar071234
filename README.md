@@ -9,7 +9,7 @@
 <div align="center">
 💻 **Full Stack Developer** | 🌱 **Learning C++ & DSA**  
 🚀 Passionate about building scalable, efficient, and user-focused web solutions  
-📫 Reach me: [vsk17369@gmail.com](mailto:vsk17369@gmail.com)
+📫 Reach me: <a href="mailto:vsk17369@gmail.com">vsk17369@gmail.com</a>
 </div>
 
 ---
