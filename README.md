@@ -7,18 +7,18 @@
 
 <div align="center">
 💻 **Full Stack Developer** | 🌱 **Learning C++ & DSA**  
-🚀 Building scalable, efficient, and user-focused web solutions  
+🚀 Passionate about building scalable, efficient, and user-focused web solutions  
 📫 Reach me: [vsk17369@gmail.com](mailto:vsk17369@gmail.com)
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-🎓 **CSE student at Lovely Professional University**, passionate about **Full Stack Development** and **Problem Solving**.  
-I design and develop **high-performance web applications** with clean architecture and great user experience.  
+🎓 **CSE student at Lovely Professional University**, passionate about **Full Stack Development and Problem Solving**.  
+I enjoy designing and developing **scalable, high-performance web applications** with clean architecture and great user experience.
 
 ⚙️ Strong foundation in **DSA, OOP, and System Design**.  
-🌱 Exploring **Cloud Technologies** and **Advanced MERN Development**.
+🌱 Exploring **Cloud Technologies and Advanced MERN Development**.
 
 ---
 
@@ -56,7 +56,7 @@ I design and develop **high-performance web applications** with clean architectu
 
 ## 📂 Featured Projects
 
-[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical)](https://github.com/Vikashkumar071234/expense-tracker)  
+[![Full-Stack Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical)](https://github.com/Vikashkumar071234/expense-tracker)  
 [![Car Rental Service](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical)](https://github.com/Vikashkumar071234/car-rental-service-)  
 [![Biodiversity Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=vk_biodiversity&theme=radical)](https://github.com/Vikashkumar071234/vk_biodiversity)
 
@@ -65,7 +65,7 @@ I design and develop **high-performance web applications** with clean architectu
 ## 📊 GitHub Stats
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical)  
+![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashkumar071234&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikashkumar071234&theme=radical)
 </div>
@@ -77,11 +77,15 @@ I design and develop **high-performance web applications** with clean architectu
 <img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" style="max-width: 100%;">
+</div>
+
 ---
 
 ## 💬 Let's Collaborate
 <div align="center">
-🤝 Open to **open-source & team projects**  
+🤝 Open to contributing to **open-source** & **team-based web projects**  
 🌍 Interested in **MERN, Django, Laravel & Cloud**  
 📫 Connect via [Gmail](mailto:vsk17369@gmail.com) or [GitHub](https://github.com/Vikashkumar071234)
 </div>
