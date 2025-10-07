@@ -19,17 +19,11 @@
 ---
 
 ## 👨‍💻 About Me
-🎓 I’m a **Computer Science and Engineering student at Lovely Professional University**, passionate about **Full Stack Development** and **Problem Solving**.  
+🎓 **CSE student at Lovely Professional University**, passionate about **Full Stack Development and Problem Solving**. 
 I enjoy designing and developing **scalable, high-performance web applications** with clean architecture and great user experience.
 
-💡 Key Projects:
-- 💰 **Full-Stack Expense Tracker** – enhanced efficiency by **40%** through real-time expense analytics  
-- 🚗 **Car Rental Service System** – optimized booking process and improved UX  
-- 🌿 **Biodiversity Conservation Website** – boosted user engagement by **40%**
-
-⚙️ With a strong foundation in **DSA**, **OOP**, and **System Design**, I focus on writing code that is both **efficient** and **maintainable**.  
-🌱 Currently exploring **Cloud Technologies** and **Advanced MERN Development**.
-
+⚙️ Strong foundation in **DSA, OOP, and System Design**.
+🌱 Exploring **Cloud Technologies and Advanced MERN Development**.
 ---
 
 ## 🛠️ Tech Stack
