@@ -57,8 +57,13 @@ I enjoy designing and developing **scalable, high-performance web applications**
 
 ## 📂 Featured Projects
 
-[![Full-Stack Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical&show_owner=true)](https://github.com/Vikashkumar071234/expense-tracker)  
-[![Car Rental Service](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical&show_owner=true)](https://github.com/Vikashkumar071234/car-rental-service-)  
+### 1. [Full-Stack Expense Tracker](https://github.com/Vikashkumar071234/expense-tracker)
+[![Full-Stack Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=expense-tracker&theme=radical&show_owner=true)](https://github.com/Vikashkumar071234/expense-tracker)
+
+### 2. [Car Rental Service](https://github.com/Vikashkumar071234/car-rental-service-)
+[![Car Rental Service](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=car-rental-service-&theme=radical&show_owner=true)](https://github.com/Vikashkumar071234/car-rental-service-)
+
+### 3. [Biodiversity Website](https://github.com/Vikashkumar071234/vk_biodiversity)
 [![Biodiversity Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkumar071234&repo=vk_biodiversity&theme=radical&show_owner=true)](https://github.com/Vikashkumar071234/vk_biodiversity)
 
 ---
