@@ -1,7 +1,8 @@
 <!-- Animated Typing Header -->
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Vikash+Kumar!;💻+Full+Stack+Developer;🌱+Learning+C%2B%2B+%26+DSA;🚀+Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C2CB&center=true&width=800&lines=👋+Hi,+I'm+Vikash+Kumar!;💻+Full+Stack+Developer;🌱+Learning+C%2B%2B+%26+DSA;🚀+Building+Scalable+Web+Solutions" alt="Typing SVG">
+</p>
+
 
 ---
 
