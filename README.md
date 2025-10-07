@@ -65,14 +65,15 @@ Here’s a snapshot of my GitHub activity, top languages, and contribution strea
 </div>
 
 ---
+
 🔗 <strong>Connect with me</strong>
 <p align="center">
-<br><br>
+<br>
 <a href="mailto:vsk17369@gmail.com" style="text-decoration: none;">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" style="margin-right: 30px; vertical-align: middle;">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" style="margin-right: 50px; vertical-align: middle;">
 </a>
 <a href="https://www.linkedin.com/in/vikashku08" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="margin-left: 30px; vertical-align: middle;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="margin-left: 50px; vertical-align: middle;">
 </a>
 </p>
 
