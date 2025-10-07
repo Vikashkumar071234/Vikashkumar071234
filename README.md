@@ -66,13 +66,6 @@ Here’s a snapshot of my GitHub activity, top languages, and contribution strea
 
 ---
 
-<div align="center">
-<img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" alt="Contribution Graph" width="80%">
-</div>
-
-<img src="https://camo.githubusercontent.com/42b6dbc20805931b067dab043469bc90415acbee45d115c5d127b2e5d0d0cf81/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d35302673697a653d32352670617573653d3130303026636f6c6f723d3230433230452663656e7465723d747275652677696474683d31303030266c696e65733d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=50&amp;size=25&amp;pause=1000&amp;color=20C20E&amp;center=true&amp;width=1000&amp;lines=-------------------------------------------------------------------------------------------------" style="max-width: 100%;">
-
----
 
 ## 💬 Let's Collaborate
 <div align="center">
@@ -84,9 +77,11 @@ Here’s a snapshot of my GitHub activity, top languages, and contribution strea
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:9A1AFF&height=120&section=footer&text=⭐%20Code.%20Learn.%20Build.%20Repeat.%20⭐&fontSize=22&fontColor=ffffff" alt="Wave Animation" width="80%">  
+<img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" alt="Contribution Graph" width="80%">
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Vikashkumar071234&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Views">
+<img src="https://camo.githubusercontent.com/42b6dbc20805931b067dab043469bc90415acbee45d115c5d127b2e5d0d0cf81/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d35302673697a653d32352670617573653d3130303026636f6c6f723d3230433230452663656e7465723d747275652677696474683d31303030266c696e65733d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=50&amp;size=25&amp;pause=1000&amp;color=20C20E&amp;center=true&amp;width=1000&amp;lines=-------------------------------------------------------------------------------------------------" style="max-width: 100%;">
 
+<div align="center">
 <img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg">
 </div>
