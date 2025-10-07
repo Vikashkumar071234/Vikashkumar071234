@@ -54,10 +54,11 @@ I enjoy designing and developing **scalable, high-performance web applications**
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
 <div align="center">
+Here’s a snapshot of my GitHub activity, top languages, and contribution streaks.
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Vikashkumar071234&show_icons=true&theme=radical" alt="GitHub Stats">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashkumar071234&layout=compact&theme=radical" alt="Top Languages">  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikashkumar071234&theme=radical" alt="GitHub Streak">
@@ -65,7 +66,6 @@ I enjoy designing and developing **scalable, high-performance web applications**
 
 ---
 
-## 🐍 Contribution Graph
 <div align="center">
 <img src="https://github.com/SohaHussain/SohaHussain/raw/main/github-contribution-grid-snake.svg" alt="Contribution Graph" width="80%">
 </div>
