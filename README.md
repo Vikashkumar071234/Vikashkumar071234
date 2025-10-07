@@ -66,13 +66,15 @@ Here’s a snapshot of my GitHub activity, top languages, and contribution strea
 
 ---
 
-
 ## 💬 Let's Collaborate
 <div align="center">
 🤝 Open to contributing to **open-source** & **team-based web projects**  
 🌍 Interested in **MERN, Django, Laravel & Cloud**  
-📫 Connect via [Gmail](mailto:vsk17369@gmail.com) or [GitHub](https://github.com/Vikashkumar071234)
+<br><br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsk17369@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashku08)
 </div>
+
 
 ---
 
@@ -85,3 +87,4 @@ Here’s a snapshot of my GitHub activity, top languages, and contribution strea
 <div align="center">
 <img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg">
 </div>
+</br>
